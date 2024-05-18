@@ -23,7 +23,7 @@ Usage:
 
 Run the main script:
 Copy code
-python emotion_detection.py
+python emotion.py
 Provide input images or videos for emotion detection.
 View the detected emotions in the output.
 Contributing:
